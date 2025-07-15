@@ -1,4 +1,4 @@
-# CEDO
+# Med-BiasX
 PyTorch code for MICCAI 2025 paper "Med-BiasX: Robust Medical Visual Question Answering with Language Biases".  
   
 # Requirements
@@ -15,6 +15,7 @@ pip install -r requirements.txt
 
 ## Data Setup
 keep file in the folders set by `utils/config.py`.
+More details please refer to https://github.com/bvyih3/CEDO
 
 ## Preprocessing
 
